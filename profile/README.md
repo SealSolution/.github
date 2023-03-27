@@ -1,6 +1,22 @@
 <img alt="Foto Gabriel" src="https://user-images.githubusercontent.com/86174349/228026986-8bf2663f-7519-442a-8811-67ca07074837.png" width = 100% align="center">
 
+<h2>Quem Somos</h2>
+    
+   > Nós, da SealSolution, somos atuante na área de tecnologia com enfasê em melhorias IOT com 
+    sensores de temperatura e umidade, para facilitar nossos clientes, atingindo sastifação em ambas partes.
 
+<h2>Nossos Ideais</h2>
+    
+   > Acreditamos que a tecnologia pode revolucionar ou otimizar algo totalmente, cada lugar que você olhar tem
+    algum iot para facilitar e reduzir perdas. Nós atuamos para resolver problemas de temperatura e umidade, reduzindo
+    as perdas de armazenamento, incluindo diversas coisas que tem que ser armazenadas com cuidado e zelo,
+    e aqui, nós da SealSolution realizamos essa resolução com exitos sastifatorios para nossos clientes.
+    
+ 
+ 
+ 
+<h2>Equipe</h2>
+    
 <div style = "display: flex;"> 
 <div style = "width:100%">
 <img alt="Foto Gabriel" src="https://user-images.githubusercontent.com/86174349/228006367-e5a7a6ce-849f-4b54-95cb-563a96023245.png" width = 200 align="left">
@@ -63,7 +79,7 @@
         </a>
 <hr>
 <div style = "width:100%">
-<img alt="Foto Rafael" src="https://user-images.githubusercontent.com/86174349/228006367-e5a7a6ce-849f-4b54-95cb-563a96023245.png" width = 200 align="left">
+<img alt="Foto Rafael" src="https://user-images.githubusercontent.com/86174349/228088084-f90dca49-229b-459a-be69-909666207575.jpg" width = 200 align="left">
 </div>
     <h4>Rafael Alves Reis</h4>
   <p><i>
