@@ -27,7 +27,7 @@
         - Um dos COs da organização <b>SealSolution.</b><br>
         - Total comprometimento dentro da nossa organização.<br>
         - Atualmente está realizando o projeto <b>Pomodoro</b>.<br>
-        - Diogo atua em todas as áreas da organização.</i><br></p>
+        - Gabriel atua em todas as áreas da organização.</i><br></p>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
@@ -47,7 +47,7 @@
         - Um dos COs da organização <b>SealSolution.</b><br>
         - Total comprometimento dentro da nossa organização.<br>
         - Atualmente está realizando o projeto <b>Pomodoro</b>.<br>
-        - Diogo atua em todas as áreas da organização.</i><br></p>
+        - Gustavo atua em todas as áreas da organização.</i><br></p>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
@@ -67,7 +67,7 @@
         - Um dos COs da organização <b>SealSolution.</b><br>
         - Total comprometimento dentro da nossa organização.<br>
         - Atualmente está realizando o projeto <b>Pomodoro</b>.<br>
-        - Diogo atua em todas as áreas da organização.</i><br></p>
+        - Jessica atua em todas as áreas da organização.</i><br></p>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
@@ -87,7 +87,7 @@
         - Um dos COs da organização <b>SealSolution.</b><br>
         - Total comprometimento dentro da nossa organização.<br>
         - Atualmente está realizando o projeto <b>Pomodoro</b>.<br>
-        - Diogo atua em todas as áreas da organização.</i><br></p>
+        - Rafael atua em todas as áreas da organização.</i><br></p>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
@@ -107,7 +107,7 @@
         - Um dos COs da organização <b>SealSolution.</b><br>
         - Total comprometimento dentro da nossa organização.<br>
         - Atualmente está realizando o projeto <b>Pomodoro</b>.<br>
-        - Diogo atua em todas as áreas da organização.</i><br></p>
+        - Rucardo atua em todas as áreas da organização.</i><br></p>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
@@ -127,7 +127,7 @@
         - Um dos COs da organização <b>SealSolution.</b><br>
         - Total comprometimento dentro da nossa organização.<br>
         - Atualmente está realizando o projeto <b>Pomodoro</b>.<br>
-        - Diogo atua em todas as áreas da organização.</i><br></p>
+        - Winycios atua em todas as áreas da organização.</i><br></p>
         <a href= "url.com">
         <img alt="Rede Social" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" align="center" width="50" height="50">
        </a>
