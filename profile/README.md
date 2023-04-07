@@ -1,4 +1,4 @@
-<img alt="Foto Gabriel" src="https://user-images.githubusercontent.com/86174349/228026986-8bf2663f-7519-442a-8811-67ca07074837.png" width = 100% align="center">
+<img alt="Foto Logo" src="https://user-images.githubusercontent.com/86174349/228026986-8bf2663f-7519-442a-8811-67ca07074837.png" width = 100% align="center">
 
 <h2>Quem Somos</h2>
     
@@ -139,3 +139,28 @@
         </a>
 <hr>
 </div>
+
+## Regras
+ <i>
+ 
+ >•	Quem faltar nas reuniões, deverá justificar;<br><br>
+ >•	Pedir ajuda se estiver com dificuldade nas entregas e a ocorrência disso ocasionará a comunicação com o socioemocional;<br><br>
+ >•	Interatividade entre o grupo;<br><br>
+ >•	Responsabilidade com as entregas;<br><br>
+ >•	Cumprir o horário das reuniões;<br><br>
+ >•	Comprometimento com o grupo e ao projeto;<br><br>
+ >•	Respeito e compreensão com as dificuldades do colegas;<br><br>
+ >•    Só pode faltar 2 vezes em reuniões;<br>
+
+</i>
+
+## Protótipo
+<br>
+    <img alt="Foto Logo" src="https://user-images.githubusercontent.com/86174349/230672084-094069f6-04d8-4f86-b835-de86bb460319.png" width = 100% align="center">
+    <img alt="Foto Logo" src="https://user-images.githubusercontent.com/86174349/230671618-2e30b8c7-8f5a-4b75-967c-06ede49d14f9.png" width = 100% align="center">
+    <img alt="Foto Logo" src="https://user-images.githubusercontent.com/86174349/230671631-1aba2aff-822b-4176-a52c-7a29a02ca4d1.png" width = 100% align="center">
+    <img alt="Foto Logo" src="https://user-images.githubusercontent.com/86174349/230671643-986a4197-fdbb-48d8-ab50-00bbe413c9f5.png" width = 100% align="center">
+    <img alt="Foto Logo" src="https://user-images.githubusercontent.com/86174349/230671646-76cb2102-7ca4-43a3-a25d-669cbd91455b.png" width = 100% align="center">
+    <img alt="Foto Logo" src="https://user-images.githubusercontent.com/86174349/230671651-2c8f3f2f-e424-444a-9072-8b2ea1488901.png" width = 100% align="center">
+
+
