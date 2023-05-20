@@ -39,7 +39,7 @@
         </a>
 <hr>
 <div style = "width:100%">
-<img alt="Foto Gustavo" src="https://trello-members.s3.amazonaws.com/64037fd9e43b35065d5478fe/3d7fb706367f48ab710e3d52f481d2ae/original.png" width = 200 align="left">
+<img alt="Foto Gustavo" src="https://avatars.githubusercontent.com/u/125709867?v=4" width = 200 align="left">
 </div>
     <h4>Gustavo Lopes Sena</h4>
   <p><i>
